@@ -33,6 +33,7 @@ The analysis leverages data from the IPUMS National Health Interview Survey (202
 - `scripts/`: R scripts for data cleaning, EDA, and modeling.
 - `models/`: Stan scripts for Bayesian models.
 - `results/`: Output files, tables, and visualizations.
+- `models.md`: Detailed documentation of the Bayesian models used in the study.
 - `README.md`: Project documentation.
 
 ## Requirements
